@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "Valida_Cpf": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7179",
-      "launchBrowser": false
-    }
-  }
-}
